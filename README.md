@@ -27,6 +27,6 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web.
 
 :musical_note: Escutando A Tábua Esmeralda - Jorge Ben Jor;
 
-> :computer: [victorjesus.com](https://www.victorjesus.com)
+> :computer: [victorjesus.com](http://www.victorjesus.com)
 
 ---
