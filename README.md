@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/victorjesus/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.jesus@usp.br)](mailto:victor.jesus@usp.br)
 
-## Descrição 👋
+## Olá 👋
 
-Olá! Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web. 
+Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web. 
 
 :memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech;
 
 :musical_note: Escutando A Tábua Esmeralda - Jorge Ben Jor;
 
-> :computer: Site-> [victorjesus.com](https://www.victorjesus.com)
+> :computer: [victorjesus.com](https://www.victorjesus.com)
 
 ---
