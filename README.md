@@ -24,7 +24,7 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web.
 
 :memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech;
 
-:musical_note: Escutando Strange Days - The Doors;
+:musical_note: Escutando September - Earth, Wind & Fire;
 
 > :computer: [victorjesus.com](http://www.victorjesus.com)
 
