@@ -26,6 +26,4 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web.
 
 :musical_note: Escutando September - Earth, Wind & Fire;
 
-> :computer: [victorjesus.com](http://www.victorjesus.com)
-
 ---
