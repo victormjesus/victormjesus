@@ -24,6 +24,6 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web.
 
 :memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech;
 
-:musical_note: Escutando September - Earth, Wind & Fire;
+:musical_note: Escutando No Pressure - Logic;
 
 ---
