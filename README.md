@@ -20,10 +20,14 @@ Here are some ideas to get you started:
 
 ## Olá 👋
 
-Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web. 
+Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web. 
 
-:memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech;
+🌱 Desenvolvendo sistemas web para Agronegócio na AgroForce;
+
+:memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech/LEPES;
 
 :musical_note: Escutando No Pressure - Logic;
+
+:guitar: Aprendendo a tocar Cavaquinho.
 
 ---
