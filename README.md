@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 
 Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web. 
 
-🌱 Desenvolvendo sistemas web para Agronegócio na AgroForce;
-
 :memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech/LEPES;
 
-:musical_note: Escutando No Pressure - Logic;
+:musical_note: Escutando Fear Fun - Father John Misty;
 
 :guitar: Aprendendo a tocar Cavaquinho.
 
