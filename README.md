@@ -24,7 +24,9 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web.
 
 :memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech/LEPES;
 
-:musical_note: Escutando Fear Fun - Father John Misty;
+:tea: Estudante do Zen Budismo;
+
+:musical_note: Escutando Theatre of Fate - Viper;
 
 :guitar: Aprendendo a tocar Cavaquinho.
 
