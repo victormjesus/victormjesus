@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 
 Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web. 
 
-:memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil na Move Tech/LEPES;
+:memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil no LEPES;
 
 :tea: Estudante do Zen Budismo;
 
-:musical_note: Escutando Theatre of Fate - Viper;
+:musical_note: Escutando Parallel Lines - Blondie;
 
-:guitar: Aprendendo a tocar Cavaquinho.
+:runner: Treinando para Maratona.
 
 ---
