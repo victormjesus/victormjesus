@@ -26,7 +26,7 @@ Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web.
 
 :tea: Estudante do Zen Budismo;
 
-:musical_note: Escutando Parallel Lines - Blondie;
+:musical_note: Escutando Bocas Ordinárias - Charlie Brown Jr.;
 
 :runner: Treinando para Maratona.
 
