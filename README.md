@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 
 ## Olá 👋
 
-Meu nome é Victor Jesus e eu trabalho com Desenvolvimento de Sistemas Web. 
+Meu nome é Victor Jesus e eu trabalho com Desenvolvimento, atuando principalmente em Front-End utilizando Frameworks JavaScript. 
 
-:memo: Desenvolvendo softwares de auxílio ao monitoramento da educação infantil no LEPES;
+:pencil2: Desenvolvendo uma Plataforma para o Monitoramento da Educação Nacional;
+
+:memo: Desenvolvendo Softwares de Auxílio ao Monitoramento da Educação Infantil no LEPES;
 
 :tea: Estudante do Zen Budismo;
 
-:runner: Treinando para Maratona.
+:runner: Treinando.
 
 ---
