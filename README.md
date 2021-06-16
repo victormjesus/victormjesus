@@ -22,10 +22,6 @@ Here are some ideas to get you started:
 
 Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web e Mobile, atuando principalmente em Front-End utilizando Frameworks JavaScript. 
 
-:pencil2: Desenvolvendo uma Plataforma para o Monitoramento da Educação Nacional;
-
-:memo: Desenvolvendo Softwares de Auxílio ao Monitoramento da Educação Infantil no LEPES;
-
 :tea: Estudante do Zen Budismo;
 
 :runner: Treinando.
