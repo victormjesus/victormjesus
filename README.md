@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web e Mobile, atuando principalmente em Front-End utilizando Frameworks JavaScript. 
 
-:tea: Estudante do Zen Budismo;
+:tea: Eterno Estudante Zen;
 
-:runner: Treinando.
+:runner: Corredor amador.
 
 ---
