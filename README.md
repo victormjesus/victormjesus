@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## Olá 👋
 
-Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web e Mobile, atuando principalmente em Front-End utilizando Frameworks JavaScript. 
+Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web e Mobile, atuando principalmente com Frameworks JavaScript e PHP. 
 
 :tea: Eterno Estudante Zen;
 
