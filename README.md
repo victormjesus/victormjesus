@@ -16,14 +16,11 @@ Here are some ideas to get you started:
 # Victor Jesus
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorjesus/)](https://www.linkedin.com/in/victorjesus/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.jesus@usp.br)](mailto:victor.jesus@usp.br)
 
 ## Olá 👋
 
 Meu nome é Victor Jesus e eu trabalho com Desenvolvimento Web e Mobile, atuando principalmente com Frameworks JavaScript e PHP. 
 
-:tea: Eterno Estudante Zen;
+:tea: Estudante e praticante do Zen;
 
-:runner: Corredor amador.
-
----
+🎧 Recomendação de álbum: Introspective - Pet Shop Boys;
